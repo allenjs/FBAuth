@@ -1,4 +1,4 @@
-#FBAuth.js
+# FBAuth.js
 
 Sample Code for Authenticating to Facebook from a WinJS Client App
 
