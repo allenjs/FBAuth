@@ -33,6 +33,7 @@
                             if (data.length > 0) {
                                 return that.savetoken(data);
                             }
+                            else return WinJS.Promise.wrapError("No saved token");
                         });
                 },
 
